@@ -32,3 +32,7 @@ update on central board without requiring additional input. Again, GPS will auto
 called and speaker on phone will be engaged in an attempt to create direct contact with user to get more information. The 
 built in flashlight will automatically be turned on to help responders better locate user. (Not sure about this  the 
 flashlight and speaker function as it could potentially create more risk for user). 
+
+There will be both mobile and desktop versions. There will be accessibility options such as voice command and mobility adaptations.
+
+The data collected from pop up options will be used to determine initial disaster need. While the developers of this app are aware there will be discrepancies again, the data can be used as an initial estimation tool to help start relief efforts. 
