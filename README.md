@@ -11,6 +11,9 @@ The hope is that the application or one like it is adopted by city or county gov
 gives the option to enroll for the application using home ownership title or automobile registration. There will also be a
 voluntary enrollment option. 
 
+The navbar will contain simple options with dropdowns but the main page will be where options will be large and easy to
+read and navigate if needed. But the purpose is to limit navigation for those who require assistance immediately.
+
 For the lowest level of urgency, users can post their status by simply clicking a button on the application that says 
 "I'm Okay!" (subject name update). Using the account information the application posts their name to a central board that is 
 searchable by name. The user can opt to display their address to limit any confusion caused by similar names. The information 
