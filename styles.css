@@ -1,1 +1,9 @@
-styles.css
+* {
+  box-sizing: border-box;
+}
+
+
+status-selection-container {
+  display: inline-block;
+
+} 
