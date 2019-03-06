@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+}
+
+.go-to-button {
+  display: inline-block;
+  
+}
+
+.status-selection-container {
+  display: flex;
+  justify-content: space-between;
+
+} 
