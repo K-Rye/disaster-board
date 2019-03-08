@@ -8,12 +8,12 @@ h4 {
 }
 
 .go-to-button {
-  display: inline-block;
   
 }
 
 .status-selection-container {
   display: flex;
+  flex-direction: row; 
   justify-content: space-between;
 
 } 
