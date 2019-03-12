@@ -2,18 +2,28 @@
   box-sizing: border-box;
 }
 
-h4 {
+.declare-header {
   display: flex;
   justify-content: center;
+  margin-top: 40px;
 }
 
-.go-to-button {
+.go-to-button { 
   
 }
 
 .status-selection-container {
   display: flex;
-  flex-direction: row; 
-  justify-content: space-between;
+  justify-content: space-around;
 
 } 
+
+.status-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 2px solid black;
+  width: 200px;
+  height: 300px;
+  margin-top: 75px;
+}

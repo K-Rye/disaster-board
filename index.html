@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 
     <!-- Bootstrap CSS -->
-   <!--  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <title>Disaster Status Board</title>
   </head>
@@ -72,18 +72,22 @@
     </div>
   </nav>
   <body>
-    <h4>Declare Status or Go to Status Board to Check Status of Friends and Family</h4>
-    <button class="go-to-button">Go To Status Board</button> 
+    <header class="declare-header">
+      <h4>Declare Status or Go to Status Board to Check Status of Friends and Family
+        <button class="go-to-button">Go To Status Board</button> 
+      </h4>
+    </header>
     <section class="status-selection-container">
-      <div class="status-box">Status:
+      <div class="status-box">
         <button class="status-buttons">I'm Okay</button>
       </div>
-      <div class="status-box">Status:
-        <button class="status-buttons">Need Help Soon</button>
-      </div>
-      <div class="status-box">Status:
+      <div class="status-box">
         <button class="status-buttons">HELP!</button>
       </div>
+      <div class="status-box"> 
+        <button class="status-buttons">Need Help Soon</button>
+      </div>
+
     </section>
 
     <!-- Optional JavaScript -->
