@@ -4,7 +4,6 @@
 
 .declare-header {
   display: flex;
-  flex-direction: column;
   justify-content: center;
   margin-top: 40px;
 }
@@ -26,5 +25,5 @@
   border: 2px solid black;
   width: 200px;
   height: 300px;
-  margin-top: 20px;
+  margin-top: 75px;
 }
